@@ -28,7 +28,7 @@ Submit a/your Fact [here](https://forms.gle/bhvK7nVyU3DQDrwz7)
 2.  Fork the Repository [here](https://github.com/IgalaDigital/Igala-Facts)
 
 3.  Clone the forked Repository <br>
-`$ git clone https://github.com/IgalaDigital/Igala-Facts.git`
+`$ git clone https://github.com/Trade-Help/Igala-Facts.gitt`
 
 4.  Enter the cloned directory <br>
 `cd Igala-Facts`
